@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hw8kfOq1LHrtFuw8GxSUL/K70Pfkdhe4jF61uE3TVgLv6hZO6UyjgSx+GiEQ5TKkvMEje9HIcWPYELuk8a7asA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\Documents\\Applications\\CsvToJson\\CsvToJson\\CsvToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
